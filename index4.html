@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+ <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Mulish&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    
+   <link rel="stylesheet" href="style4.css">
+   <title>start</title>
+ </head>
+<body>
+
+ <div class="v1_116">
+        <div class="v1_117">
+
+        
+      <!-- Icon for Back -->
+
+      <a href="index2.html" class="v1_130"></a>
+
+ <div class="v1_123"></div> 
+<h2 class="v1_124">Welcome</h2>
+
+ <div class="v1_123"></div> 
+<h2 class="v1_124">Welcome</h2>
+
+<body>
+    <h2 class="v1_124">Welcome</h2>
+
+    <div>
+        <div class="user-name-section">
+            <p class="v1_125" id="user_name"></p>
+        </div>
+    </div>
+
+    <button id="startButton" class="v1_128" onclick="navigateToStartPage()"><span style="color:#fff;">Start</span></button>
+
+    <script>
+        // Function to get the value of a URL parameter by its name
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+
+        // Get the user's name from the URL parameter 'user_name'
+        var userName = getParameterByName('user_name');
+
+        // Display the user's name
+        var userNameElement = document.getElementById('user_name');
+        if (userNameElement && userName) {
+            userNameElement.innerHTML = 'Hello ' + userName + '';
+        }
+
+        // Function to navigate to index2.html
+        function navigateToStartPage() {
+            window.location.href = "index5.html";
+        }
+    </script>
+
+
+</body>
+</html>
+

@@ -1,0 +1,758 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v615_1497 {
+  width: 428px;
+  height: 926px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v615_1498 {
+  width: 428px;
+  height: 926px;
+  background: url("images/v615_1498.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v615_1499 {
+  width: 62px;
+  height: 62px;
+  background: url("images/v615_1499.png");
+  opacity: 1;
+  position: absolute;
+  top: 42px;
+  left: 183px;
+  border-radius: 50%;
+}
+.v615_1500 {
+  width: 36px;
+  color: rgba(79,79,79,1);
+  position: absolute;
+  top: 344px;
+  left: 94px;
+  font-family: roboto;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v615_1501 {
+  width: 69px;
+  color: rgba(79,79,79,1);
+  position: absolute;
+  top: 546px;
+  left: 79px;
+  font-family: roboto;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v615_1502 {
+  width: 38px;
+  color: rgba(79,79,79,1);
+  position: absolute;
+  top: 748px;
+  left: 93px;
+  font-family: roboto;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v615_1503 {
+  width: 84px;
+  color: rgba(79,79,79,1);
+  position: absolute;
+  top: 344px;
+  left: 268px;
+  font-family: roboto;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v615_1504 {
+  width: 62px;
+  color: rgba(79,79,79,1);
+  position: absolute;
+  top: 546px;
+  left: 278px;
+  font-family: roboto;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v615_1505 {
+  width: 107px;
+  color: rgba(79,79,79,1);
+  position: absolute;
+  top: 748px;
+  left: 255px;
+  font-family: roboto;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v615_1507 {
+  width: 17px;
+  height: 15px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  bottom: 90%;
+
+}
+.v615_1508 {
+  width: 19px;
+  height: 13px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 26px;
+  left: 358px;
+}
+.v615_1509 {
+  width: 19px;
+  height: 9px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 29px;
+  left: 383px;
+}
+.v615_1510 {
+  width: 33px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 23px;
+  left: 33px;
+  font-family: Poppins;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v615_1511 {
+  width: 61px;
+  color: rgba(241,104,44,1);
+  position: absolute;
+  top: 119px;
+  left: 34px;
+  font-family: roboto;
+  font-weight: Regular;
+  font-size: 14px;
+  opacity: 1;
+  text-align: center;
+}
+.v615_1512 {
+  width: 89px;
+  color: rgba(241,104,44,1);
+  position: absolute;
+  top: 139px;
+  left: 34px;
+  font-family: roboto;
+  font-weight: Regular;
+  font-size: 10px;
+  opacity: 1;
+  text-align: center;
+}
+.v615_1513 {
+  width: 25px;
+  height: 20px;
+  background: url("images/v615_1513.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  left: 376px;
+  overflow: hidden;
+}
+.v615_1514 {
+  width: 25px;
+  height: 2px;
+  background: rgba(243,146,60,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v615_1515 {
+  width: 25px;
+  height: 2px;
+  background: rgba(243,146,60,1);
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v615_1516 {
+  width: 25px;
+  height: 2px;
+  background: rgba(243,146,60,1);
+  opacity: 1;
+  position: absolute;
+  top: 18px;
+  left: 0px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+
+.v615_1517 {
+    display: flex; /* Use flexbox for centering and spacing */
+    align-items: center; /* Vertically center the icons */
+    justify-content: space-between; /* Add space between the icons */
+    width: 435px;
+    height: 75px;
+    background: rgba(243, 146, 60, 1);
+    opacity: 1;
+    position: absolute;
+    top: 870px;
+    left: 0px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+}
+
+/* Add margin to the first and last icons */
+.v615_1520 {
+    margin-right: 40px;
+}
+
+.v615_1519 {
+    margin-left: 40px;
+}
+
+
+.white-icon {
+    color: white; /* Set the color to white */
+    font-size: 22px; /* Adjust the size as needed */
+    
+}
+
+
+.v615_1522 {
+  width: 140px;
+  height: 140px;
+   background: rgba(255,255,255,1);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 182px;
+  left: 240px;
+  overflow: hidden;
+}
+
+.v615_1523 {
+  width: 140px;
+  height: 140px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v615_1524 {
+  width: 100px;
+  height: 105px;
+  background: url("images/v615_1524.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17px;
+  left: 20px;
+  overflow: hidden;
+}
+
+
+/* Hover state */
+.v615_1524:hover {
+    /* Set the background image on hover */
+    background-image: url(images/v615_1616.png);
+}
+
+.v615_1525 {
+  width: 140px;
+  height: 140px;
+  background: url("images/v615_1525.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 384px;
+  left: 47px;
+  overflow: hidden;
+}
+.v615_1526 {
+  width: 140px;
+  height: 140px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+
+.v615_1527:hover {
+    /* Set the background image on hover */
+    background-image: url(images/v615_1616.png);
+}
+
+.v615_1527 {
+  width: 99px;
+  height: 99px;
+  background: url("images/v615_1665.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  overflow: hidden;
+}
+.v615_1528 {
+  width: 140px;
+  height: 140px;
+  background: url("images/v615_1528.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 589px;
+  left: 47px;
+  overflow: hidden;
+}
+.v615_1529 {
+  width: 140px;
+  height: 140px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v615_1530 {
+  width: 100px;
+  height: 100px;
+  background: url("images/v615_1530.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  overflow: hidden;
+}
+
+/* Hover state */
+.v615_1530:hover {
+    /* Set the background image on hover */
+    background-image: url(images/v615_1760.png);
+}
+.v615_1531 {
+  width: 35px;
+  height: 35px;
+  background: url("images/v615_1531.png");
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  left: 32px;
+  border-radius: 50%;
+}
+.v615_1532 {
+  width: 140px;
+  height: 140px;
+  background: url("images/v615_1532.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 589px;
+  left: 240px;
+  overflow: hidden;
+}
+.v615_1533 {
+  width: 140px;
+  height: 140px;
+  background: url("images/v615_1533.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v615_1534 {
+  width: 140px;
+  height: 140px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+}
+.v615_1535 {
+  width: 91px;
+  height: 91px;
+  background: url("images/v615_1535.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 115px;
+  overflow: hidden;
+}
+.v615_1536 {
+  width: 100px;
+  height: 107px;
+  background: url("images/v615_1536.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 15px;
+  overflow: hidden;
+}
+
+/* Hover state */
+.v615_1536:hover {
+    /* Set the background image on hover */
+    background-image: url(images/v615_1812.png);
+}
+.v615_1537 {
+  width: 140px;
+  height: 140px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 182px;
+  left: 47px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+
+.v615_1538 {
+  width: 99px;
+  height: 99px;
+  background: url("images/v615_1538.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 202px;
+  left: 73px;
+  overflow: hidden;
+}
+
+
+/* Hover state */
+.v615_1538:hover {
+    /* Set the background image on hover */
+    background-image: url(images/v1_346.png);
+}
+
+
+.v615_1539 {
+  width: 140px;
+  height: 140px;
+  background: url("images/v615_1539.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 384px;
+  left: 240px;
+  overflow: hidden;
+}
+.v615_1540 {
+  width: 140px;
+  height: 140px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v615_1541 {
+  width: 100px;
+  height: 100px;
+  background: url("images/v615_1541.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  overflow: hidden;
+}
+
+
+/* Hover state */
+.v615_1541:hover {
+    /* Set the background image on hover */
+    background-image: url(images/v1_346.png);
+}
+
+.v615_1542 {
+  width: 40px;
+  height: 40px;
+  background: url("images/v615_1542.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 25px;
+  left: 30px;
+  overflow: hidden;
+}
+
+.v435_3628 {
+  width: 281px;
+  height: 818px;
+  background: url("images/v435_3628.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v435_3627 {
+  width: 281px;
+  height: 828px;
+  background: url("images/v435_3627.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v272_414 {
+  width: 281px;
+  height: 828px;
+  background: rgba(243,146,60,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v284_423 {
+  width: 13px;
+  height: 14px;
+  background: url("images/v284_423.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 43px;
+  left: 236px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v435_3623 {
+  width: 72px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 138px;
+  left: 37px;
+  font-family: roboto;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v435_3624 {
+  width: 76px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 185px;
+  left: 35px;
+  font-family: roboto;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v435_3625 {
+  width: 60px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 238px;
+  left: 37px;
+  font-family: roboto;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v435_3626 {
+  width: 76px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 290px;
+  left: 37px;
+  font-family: roboto;
+  font-weight: Bold;
+  font-size: 14px;
+  opacity: 1;
+  text-align: left;
+}
+.v818_475{
+  width: 62px;
+  height: 62px;
+  background: url("images/v818_475.png");
+  opacity: 1;
+  position: absolute;
+  top: 26px;
+  left: 72%;
+  border-radius: 50%;
+}
+
+/* CSS for the menu container */
+        /* CSS for the menu container */
+        .menu-container {
+            position: absolute;
+            top: 0; /* Adjust this value to match the height of your navigation icon */
+            left: -300px; /* Initially, position it outside the screen */
+            width: 300px;
+            height: 100%;
+            background-color: rgba(243,146,60,1);
+            z-index: 998;
+            overflow: hidden;
+            transition: left 0.3s ease; /* Add smooth transition for opening and closing */
+        }
+
+        /* Show the menu when it's open */
+        .menu-open {
+            left: 0;
+        }
+
+        /* Additional styles for the menu button */
+        .menu-button {
+            position: absolute;
+            top: 40px;
+            right: 20px;
+            cursor: pointer;
+
+        }
+
+        /* Additional styles for the menu icon */
+        .menu-icon {
+            font-size: 24px;
+
+        }
+
+        /* Additional styles for the menu list items */
+        .menu-list {
+            list-style: none;
+            padding: 0;
+            margin-left: 30px;
+           margin-top: 30px;
+
+
+        }
+
+        .menu-item {
+            margin-bottom: 10px;
+        }
+
+        .menu-item a {
+            text-decoration: none;
+            color: #000; /* Set your desired text color */
+        }
+
+        /* Additional styles for the close button */
+        .close-button {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            cursor: pointer;
+            display: none; /* Initially, hide the close button */
+        }

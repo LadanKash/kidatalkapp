@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Account</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Spicy+Rice&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Mulish&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet">
+     <link rel="stylesheet" href="style1.css"> 
+</head>
+<body> 
+ <div>
+        <div class="v1_496">
+        
+        <div class="v1_519"></div>
+        <div class="v1_520"></div>
+        <h1>KIDSTALK</h1>
+
+        <!--<span class="v1_522">KIDSTALK</span>-->
+
+        <span class="v1_529">Lorem ipsum lorem ipsum</span>
+
+      <div>
+    <form id="createAccountForm">
+        <span class="v1_519">Create an Account</span>
+        <input type="text" id="login" placeholder="User Name" class="v1_519">
+       
+        <button type="submit" class="v1_519">Create an Account</button>
+    </form>
+
+    <a href="createaccount.html">
+        <button type="button" class="v1_524">Create an Account</button>
+    </a>
+
+    <a href="index3.html">
+        <button type="button" class="v1_524">Log in</button>
+    </a>
+</div>
+
+<script>
+    document.getElementById('createAccountForm').addEventListener('submit', function(event) {
+        event.preventDefault(); 
+        var login = document.getElementById('login').value;
+        console.log('Creating an account with username:', login);
+        // Add code to create an account here if needed.
+        window.location.href = 'index2.html';
+    });
+
+    document.getElementById('loginButton').addEventListener('click', function() {
+        window.location.href = "index3.html";
+    });
+</script>
+
+</body>
+</html>
+ 

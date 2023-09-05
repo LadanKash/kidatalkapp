@@ -1,0 +1,148 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v1_495 {
+    width: 428px;
+    height: 926px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v1_496 {
+    width: 428px;
+    height: 926px;
+    background: url("images/v1_496.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+   
+  }
+  .v1_497 {
+    width: 425px;
+    height: 430px;
+    background: url("images/v1_497.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 739px;
+    left: 359px;
+    overflow: hidden;
+  }
+  .v1_498 {
+    width: 17px;
+    height: 15px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 23px;
+    left: 331px;
+  }
+  .v1_499 {
+    width: 19px;
+    height: 13px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 26px;
+    left: 357px;
+  }
+  .v1_500 {
+    width: 19px;
+    height: 9px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 29px;
+    left: 382px;
+  }
+  .v1_501 {
+    width: 33px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 23px;
+    left: 32px;
+    font-family: Poppins;
+    font-weight: Bold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v1_502 {
+    width: 204px;
+    height: 204px;
+    background: url("images/v1_502.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 361px;
+    left: 112px;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+  .v1_503 {
+    width: 204px;
+    height: 204px;
+    background: url("images/v1_503.png");
+    opacity: 1;
+    position: absolute;
+    margin-top: 80%;
+    margin-left: 25%;
+    border-radius: 50%;
+
+  }
+ /* .v1_504 {
+    width: 160px;
+    color: rgba(243,146,60,1);
+    position: absolute;
+    top: 274px;
+    left: 134px;
+    font-family: Spicy Rice;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+    margin-left: 35%;
+  }*/
+
+h1{
+  width: 160px;
+    color: rgba(243,146,60,1);
+    position: absolute;
+    top: 210px;
+    left: 134px;
+    font-family: roboto;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: left;
+   
+}
+/* Define the zoom animation */
+        @keyframes zoomIn {
+            from {
+                transform: scale(1);
+            }
+            to {
+                transform: scale(1.2);
+            }
+        }
+
+        /* Apply the zoom animation */
+        .zoom {
+            animation: zoomIn 2s ease-in-out;
+        }

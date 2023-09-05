@@ -1,0 +1,264 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v1_518 {
+    position: relative;
+    width: 428px;
+    height: 926px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+   
+  }
+
+.icon-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+}
+
+
+.v1_496 {
+    width: 428px;
+    height: 926px;
+    background: url("images/v1_496.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+   
+  }
+
+.v1_499 {
+    width: 19px;
+    height: 13px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 26px;
+    left: 357px;
+  }
+
+  .v1_500 {
+    width: 19px;
+    height: 9px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 29px;
+    left: 382px;
+  }
+  .v1_501 {
+    width: 33px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 23px;
+    left: 32px;
+    font-family: Poppins;
+    font-weight: Bold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+
+  .v1_97 {
+  width: 40px;
+  height: 40px;
+  background: url("images/v1_97.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 55px;
+  left: 32px;
+  overflow: hidden;
+}
+  /*.v1_58 {
+    width: 40px;
+    height: 40px;
+    background: url("images/v1_58.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 361px;
+    left: 112px;
+    overflow: hidden;
+    border-radius: 50%;
+  }*/
+
+  .v1_519 {
+    width: 350px;
+    height: 52px;
+    background: rgba(243,146,60,1);
+    opacity: 1;
+    position: absolute;
+    top: 765px;
+    left: 43px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+    border: none;
+
+  }
+  .v1_520 {
+    width: 304px;
+    height: 139px;
+    background: rgba(243,146,60,1);
+    opacity: 1;
+    position: absolute;
+    top: 308px;
+    left: 62px;
+    border-radius: 50%; 
+
+  }
+
+
+  .v1_521 {
+    width: 425px;
+    height: 430px;
+    background: url("images/v1_521.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 739px;
+    left: 359px;
+    overflow: hidden;
+  }
+
+
+  h1{
+    width: 160px;
+    color: rgba(255,255,255,1);
+    margin-left: 28%;
+    margin-top: 83%;
+     position: absolute;
+    font-family: roboto;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+  }
+  .v1_523 {
+    width: 165px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 780px;
+    left: 128px;
+    font-family: roboto;
+    font-weight: Bold;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v1_524 {
+    width: 350px;
+    height: 52px;
+    background: rgba(243,146,60,1);
+    opacity: 1;
+    position: absolute;
+    top: 840px;
+    left: 43px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+    border: none;
+  
+  }
+  .v1_525 {
+    width: 17px;
+    height: 15px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 23px;
+    left: 332px;
+  }
+  .v1_526 {
+    width: 19px;
+    height: 13px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 26px;
+    left: 358px;
+  }
+  .v1_527 {
+    width: 19px;
+    height: 9px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 29px;
+    left: 383px;
+  }
+  .v1_528 {
+    width: 33px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 23px;
+    left: 33px;
+    font-family: Poppins;
+    font-weight: Bold;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v1_529 {
+    width: 195px;
+    color: rgba(51,51,51,1);
+    position: absolute;
+    top: 562px;
+    left: 116px;
+    font-family: Mulish;
+    font-weight: Regular;
+    font-size: 18px;
+    opacity: 1;
+    text-align: center;
+  
+  }
+  .v1_530 {
+    width: 40px;
+    height: 40px;
+    background: url("images/v1_530.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 55px;
+    left: 32px;
+    overflow: hidden;
+  }
+  
+  .v1_519 {
+    /* ... your existing CSS rules ... */
+  
+    /* Add the following rules for hover effect */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .v1_519:hover, .v1_524:hover {
+    background-color: #f1f1f1;
+  }
+  

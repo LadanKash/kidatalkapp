@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Create Account</title>
+<!-- Font Awesome JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Spicy+Rice&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <div class="v1_38">
+        <div class="v1_39">
+        
+      <!-- Icon for Back -->
+       
+       <a href="index1.html" class="v1_58"></a>
+        </div>
+       </div>
+    <h2 class="v1_55">Let’s Get Started</h2>
+    <div class="v153_39"></div>
+    <div>
+        <div class="form-section">
+            <form id="createAccountForm" action="#" method="post">
+                <input type="text" class="v1_49" id="user_name" name="user_name" placeholder="Name" required><br>
+                <input type="text" class="v1_50" id="email" name="email" placeholder="E-mail" required><br>
+                <p class="v1_57">Forgot E-mail?</p>
+
+                <button type="submit" value="Submit" class="v1_41">Continue</button>
+
+                <label>
+                    <input type="checkbox" name="terms" class="v176_39">
+                    <p class="v176_38">I agree to the terms & conditions</p>
+                </label>
+            </form>
+        </div>
+    </div>
+ <script>
+    document.getElementById('createAccountForm').addEventListener('submit', function(event) {
+        event.preventDefault(); // Prevent form submission
+        
+        console.log("Script executed"); // Debugging line
+        
+        window.location.href = 'index3.html'; // Navigate to the desired page
+    });
+</script>
+
+</body>
+</html>
+
